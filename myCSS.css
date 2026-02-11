@@ -32,10 +32,12 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
-	margin: 10px;
-	padding: 5;
+  background: #EEEEEE;
+  margin: 0;
+  padding: 15px;
+  text-align: left;
 }
+
 .content img {
   max-width: 100%;
   height: auto;
