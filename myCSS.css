@@ -33,7 +33,11 @@ body {
 	background: #EEEEEE;
 	margin: 10px;
 	padding: 5;
-	text-align: left;
+}
+.content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 .footer {
 	background: #777777;
