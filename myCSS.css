@@ -5,6 +5,7 @@
 body {
 	margin: 0 auto;
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	border-radius: 12px;
 }
 .homePage {
 	background: #434F75;
